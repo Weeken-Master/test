@@ -5,7 +5,7 @@
  *
  * @author      Chu Khanh Van
  * @category   	NhanhAPI library
- * @copyright  	http://nhanh.vn
+ * @copyright  	http://nhanh.vnhttps://github.com/Weeken-Master/test/blob/main/NhanhService.php
  * @license    	http://nhanh.vn/license/
  */
 class NhanhService
